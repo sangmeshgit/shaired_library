@@ -1,4 +1,4 @@
 def call(){
   echo 'namaskar ri anna bhai ri'
-  sh 'mkdir dir'
+  sh 'mkdir dir2'
 }
